@@ -26,7 +26,9 @@ The precompiled server for All City Network so anyone can host a Bombrush Cyberf
   - You need to rent a remote server from month
   - Best options would be something like DigitalOcean, which will only run you a few dollars per month.
   - Depending on your player count, you may need to increase the amount of total power you are renting, but its unlikely based on Freesoul's numbers. 
-  - After your server is rented, you follow the same steps as above to get the server running. 
+  - After your server is rented, you follow the same steps as above to get the server running.
+
+    - if you want to make a mod that will make All City Network auto connect to your server, you can grab the template for that here: https://github.com/SnailUsbs/ACNServerMod/tree/main
 </details>
 
 -----
