@@ -10,7 +10,7 @@ The precompiled server for All City Network so anyone can host a Bombrush Cyberf
   <summary><b>How To Run The Server (On your device, mainly for friends)</b></summary>
   
   - Download the build from this repo
-  - Keep everything in the folder, do not remove the exe from it, as it needs to call on the other files in it to run properly 
+  - Keep everything in the folder, as the program needs to call on the other files in it to run properly 
   - Run the "BommbrushMPServer" program
   - Ensure you have port forwarded a port, with port 41585 being the default option
   - A terminal will appear giving you an over view of the server once its running. 
